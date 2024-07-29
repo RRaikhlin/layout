@@ -143,7 +143,7 @@
     background-color: #1D1E1C;
     color: #fff;
 }
-@media (max-width: 600px) {
+@media (max-width: 720px) {
     .blog-heading {
         font-size: 24px;
         line-height: 33.6px;

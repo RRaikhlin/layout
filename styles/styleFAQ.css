@@ -110,7 +110,7 @@
     height: 75px;
     margin-top: 16px;
 }
-@media (max-width: 600px) {
+@media (max-width: 720px) {
     body, html {
         margin: 0;
         padding: 0;
